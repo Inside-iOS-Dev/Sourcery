@@ -76,6 +76,12 @@ You can watch this video to get started quickly with Sourcery to generate mocks:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-ZbBNuttlt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[![intro-video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/-ZbBNuttlt4 "")
+
+![intro-video](https://www.youtube.com/embed/-ZbBNuttlt4)
+
+[![Watch the video](https://img.youtube.com/vi/-ZbBNuttlt4/default.jpg)](https://youtu.be/-ZbBNuttlt4)
+
 Otherwise the setup and getting started instructions are below.
 
 ## How To Get Started
