@@ -74,7 +74,7 @@ Once you start writing your own template and learn the power of Sourcery you won
 
 You can watch this video to get started quickly with Sourcery to generate mocks:
 
-<a href="https://youtu.be/-ZbBNuttlt4" rel="nofollow"><img src="/Inside-iOS-Dev/Sourcery/raw/add-quick-intro-video-to-readme/Resources/Inside-iOS-Dev-Sourcery-Intro-To-Mocking-Video-Thumbnail.png" alt="Watch the video" target="_blank" style="max-width: 100%;"></a>
+<a href="https://youtu.be/-ZbBNuttlt4" rel="nofollow" target="_blank">![Watch the video](Resources/Inside-iOS-Dev-Sourcery-Intro-To-Mocking-Video-Thumbnail.png)</a>
 
 Otherwise the setup and getting started instructions are below.
 
