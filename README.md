@@ -82,6 +82,8 @@ There are plenty of tutorials for different uses of Sourcery, and you can always
 ### Quick Mocking Intro & Getting Started Video
 
 You can also watch this quick getting started and intro to mocking video by Inside iOS Dev: 
+<br />
+
 [![Watch the video](Resources/Inside-iOS-Dev-Sourcery-Intro-To-Mocking-Video-Thumbnail.png)](https://youtu.be/-ZbBNuttlt4)
 
 ## Installation
