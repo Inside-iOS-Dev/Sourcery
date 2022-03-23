@@ -70,6 +70,14 @@ But how about more specific use-cases, like automatically generating all the UI 
 
 Once you start writing your own template and learn the power of Sourcery you won't be able to live without it.
 
+## Quick Get Starting Video
+
+You can watch this video to get started quickly with Sourcery to generate mocks:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-ZbBNuttlt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Otherwise the setup and getting started instructions are below.
+
 ## How To Get Started
 There are plenty of tutorials for different uses of Sourcery, and you can always ask for help in our [Swift Forum Category](https://forums.swift.org/c/related-projects/sourcery).
 
