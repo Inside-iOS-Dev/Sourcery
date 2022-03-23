@@ -70,14 +70,6 @@ But how about more specific use-cases, like automatically generating all the UI 
 
 Once you start writing your own template and learn the power of Sourcery you won't be able to live without it.
 
-## Quick Get Starting Video
-
-You can watch this video to get started quickly with Sourcery to generate mocks:
-
-<a href="https://youtu.be/-ZbBNuttlt4" rel="nofollow" target="_blank">![Watch the video](Resources/Inside-iOS-Dev-Sourcery-Intro-To-Mocking-Video-Thumbnail.png)</a>
-
-Otherwise the setup and getting started instructions are below.
-
 ## How To Get Started
 There are plenty of tutorials for different uses of Sourcery, and you can always ask for help in our [Swift Forum Category](https://forums.swift.org/c/related-projects/sourcery).
 
@@ -86,6 +78,11 @@ There are plenty of tutorials for different uses of Sourcery, and you can always
 - [How To Automate Swift Boilerplate with Sourcery](https://atomicrobot.io/blog/sourcery/) generates conversions to dictionaries
 - [Codable Enums](https://littlebitesofcocoa.com/318-codable-enums) implements Codable support for Enumerations
 - [Sourcery Workshops](https://github.com/krzysztofzablocki/SourceryWorkshops)
+
+### Quick Mocking Intro & Getting Started Video
+
+You can also watch this quick getting started and intro to mocking video by Inside iOS Dev: 
+[![Watch the video](Resources/Inside-iOS-Dev-Sourcery-Intro-To-Mocking-Video-Thumbnail.png)](https://youtu.be/-ZbBNuttlt4)
 
 ## Installation
 
