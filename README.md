@@ -80,7 +80,7 @@ You can watch this video to get started quickly with Sourcery to generate mocks:
 
 ![intro-video](https://www.youtube.com/embed/-ZbBNuttlt4)
 
-[![Watch the video](https://img.youtube.com/vi/-ZbBNuttlt4/default.jpg)](https://youtu.be/-ZbBNuttlt4)
+[![Watch the video](Resources/Inside-iOS-Dev-Sourcery-Intro-To-Mocking-Video-Thumbnail.png)](https://youtu.be/-ZbBNuttlt4)
 
 Otherwise the setup and getting started instructions are below.
 
